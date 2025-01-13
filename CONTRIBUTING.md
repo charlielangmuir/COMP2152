@@ -10,5 +10,5 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive. You can use the "description" section of the repository.
 - Check your spelling and grammar.
-
+- Namespaces are one honking great idea -- let's do more of those!
 Thank you for your suggestions!
